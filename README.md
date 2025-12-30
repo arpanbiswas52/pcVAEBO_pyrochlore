@@ -21,7 +21,7 @@ Proposed architecture of the pc-VAE assisted BO and SAASBO exploration for cryst
 This repository includes links, code, scripts, and data to generate the figures in a paper. All the required installation and import of python packages are provided at the top of each notebooks. If you are using Colab, please !pip install the required packages first. 
 
 ### Data
-Information on the dataset is provided in the main paper and notebook. The dataset used to train pcVAE and BO analysis are provided in **Data** folder [here](https://github.com/arpanbiswas52/Stitching_AFMimage/tree/main/data). The GSAS .py script and the pretrained VAE model are provided in **src** folder [here](https://github.com/arpanbiswas52/Stitching_AFMimage/tree/main/src). The training dataset used to train pcVAE is provided in Google Drive [here](https://drive.google.com/drive/folders/1DtuG-HsHbB8BuZAee1HNWAS5HvZQ-tHt?usp=drive_link) With reasonable request, the raw simulation and experimental data will be shared. Please reach out to wangyishu@utk.edu or abiswas5@utk.edu.
+Information on the dataset is provided in the main paper and notebook. The dataset used to train pcVAE and BO analysis are provided in **Data** folder [here](https://github.com/arpanbiswas52/pcVAEBO_pyrochlore/tree/main/data). The GSAS .py script and the pretrained VAE model are provided in **src** folder [here](https://github.com/arpanbiswas52/pcVAEBO_pyrochlore/tree/main/src). The training dataset used to train pcVAE is provided in **Google Drive** [here](https://drive.google.com/drive/folders/1DtuG-HsHbB8BuZAee1HNWAS5HvZQ-tHt?usp=drive_link). With reasonable request, the raw simulation and experimental data will be shared. Please reach out to wangyishu@utk.edu or abiswas5@utk.edu.
 
 ### Support
 
